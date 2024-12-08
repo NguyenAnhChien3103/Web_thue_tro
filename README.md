@@ -1,2 +1,3 @@
 - Các giao diện cơ bản của Website 
-![Screenshot (105)](https://github.com/user-attachments/assets/0c6365c9-9acb-4d5e-b4ea-633579777541)
+![Screenshot (106)](https://github.com/user-attachments/assets/2e254b7b-9fe8-41b0-8f05-cf6973b009cb)
+
